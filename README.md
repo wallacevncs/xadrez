@@ -1,5 +1,5 @@
 <h1 align="center">
-  Xadrez
+  Chess
 </h1>
 
 <p align="center">
